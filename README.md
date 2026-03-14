@@ -144,7 +144,6 @@ This project demonstrates several important **game development concepts**:
 Developed by:
 
 **Sadeem Arshad**
-**Hamza Sheikh**
 
 FAST National University of Computer and Emerging Sciences (FAST-NUCES), Lahore.
 
